@@ -1,8 +1,4 @@
-# Created by pytest automatically.
-metopt/lab1/v
-./.venv
-./.ipynb_checkpoints
-./web2
+lab1/v
 
 # Байт-код и оптимизированные файлы
 __pycache__/
