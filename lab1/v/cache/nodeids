@@ -1,0 +1,21 @@
+[
+  "test_simplex.py::test_calc_new_table_dop_pivot",
+  "test_simplex.py::test_calc_new_table_standard_pivot",
+  "test_simplex.py::test_chose_re_no_positive_row",
+  "test_simplex.py::test_chose_re_optimal",
+  "test_simplex.py::test_chose_re_selects_column_and_row",
+  "test_simplex.py::test_full_pipeline_max",
+  "test_simplex.py::test_full_pipeline_min",
+  "test_simplex.py::test_main_task_already_optimal",
+  "test_simplex.py::test_main_task_one_pivot",
+  "test_simplex.py::test_print_solution_max",
+  "test_simplex.py::test_print_solution_min",
+  "test_simplex.py::test_read_file_bad_c_count",
+  "test_simplex.py::test_read_file_bad_constraints_count",
+  "test_simplex.py::test_read_file_bad_task_type",
+  "test_simplex.py::test_read_file_valid",
+  "test_simplex.py::test_to_canon_flips_negative_rhs",
+  "test_simplex.py::test_to_canon_max_le_ge",
+  "test_simplex.py::test_to_canon_min_keeps_c",
+  "test_simplex.py::test_to_dop_canon_simple"
+]

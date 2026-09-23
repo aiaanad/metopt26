@@ -1,0 +1,40 @@
+# Created by pytest automatically.
+metopt/lab1/v
+./.venv
+./.ipynb_checkpoints
+./web2
+
+# Байт-код и оптимизированные файлы
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+venv/
+.venv
+
+# Файлы окружения и секреты
+.env
+*.local.yml
+
+# Артефакты сборки и дистрибутивов
+dist/
+build/
+*.egg-info/
+
+# Настройки IDE
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+
+# Другие ненужные вещи
+*.log
+*.swp
+*.swo
+.cache/
+*.coverage
+*.py,cover
+
+# Для Jupyter Notebook
+.ipynb_checkpoints/
